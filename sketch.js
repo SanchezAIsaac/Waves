@@ -102,12 +102,3 @@ function refresh(){
 
 
 
-//add a transparent (alpha) layer where it has a wave pattern with colors
-// loadPixels()
-//   for(i=0;i<x;i++){
-//     for(k=0;k<y;k++){
-//       var c = color(255-i*(255/x),255-k*(255/y),0)
-//       set(i,k,c)
-//     }
-//   }
-// updatePixels()
